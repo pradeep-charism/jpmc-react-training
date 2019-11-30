@@ -124,10 +124,15 @@ https://www.nginx.com/
 
 
 npm run build
+
 npm install -g firebase-tools
+
 firebase start
+
 firebase init
+
 firebase serve
+
 firebase deploy
 
 
