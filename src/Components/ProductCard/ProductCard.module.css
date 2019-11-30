@@ -1,0 +1,19 @@
+.ProductCard {
+    /* width: calc(20% - 32px); */
+    width: calc(20% - 32px);
+    box-shadow: 0 2px 4px #ccc;
+    margin: 16px;
+}
+
+.AdProductCard {
+    width: 100%;
+}
+
+.ProductCard > a {
+    text-decoration: none;
+    color: black;
+}
+
+.ProductImage {
+    width: 100%;
+}
